@@ -24,8 +24,6 @@ Stop wasting 2-3 hours weekly...
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://wealthybot8.gumroad.com/l/edocs)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/00w14n9z97EobRS5bucZo1R)** — Secure checkout
 
 ## Installation
@@ -37,7 +35,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://wealthybot8.gumroad.com/l/edocs)
 
 ## License
 
